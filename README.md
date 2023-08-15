@@ -1,6 +1,6 @@
-Required packages:
-ROOT6.xx
-jsoncpp-devel
+## Required packages:
+- ROOT6.xx
+- jsoncpp-devel
 
 After installing required packages run the following to create the executable.
 ```bash
